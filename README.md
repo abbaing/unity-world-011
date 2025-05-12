@@ -15,6 +15,10 @@ This is a technical prototype of a Fantasy RPG Game, developed in Unity as a **p
 - Player melee and ranged magic attacks
 - Save/load system using PlayerPrefs and serialized data
 
+## Preview
+
+https://github.com/user-attachments/assets/f4ac62ed-16f1-4a7d-b1de-b5ccd7290ff5
+
 ## Project Structure
 
 Assets/
